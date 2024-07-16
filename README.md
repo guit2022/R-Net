@@ -2,10 +2,10 @@
 Codes describing the preprocessing work in the paper titled "Race estimation with deep networks" (https://www.sciencedirect.com/science/article/pii/S1319157820305589)
 
 The code has been created using Google Colab. Please make appropriate changes to the file paths wherever applicable. To run the code you will need the following:
-      -- dlib
-      -- cv2
-      -- matplotlib (for viewing the image)
-      -- mtcnn
+      1. dlib
+      2. cv2
+      3.matplotlib (for viewing the image)
+      4.mtcnn
 
 The pro-processing code has been adapted from the site "https://pyimagesearch.com/2017/05/22/face-alignment-with-opencv-and-python/". 
 
