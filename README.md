@@ -4,8 +4,8 @@ Codes describing the preprocessing work in the paper titled "Race estimation wit
 The code has been created using Google Colab. Please make appropriate changes to the file paths wherever applicable. To run the code you will need the following:
       1. dlib
       2. cv2
-      3.matplotlib (for viewing the image)
-      4.mtcnn
+      3. matplotlib (for viewing the image)
+      4. mtcnn
 
 The pro-processing code has been adapted from the site "https://pyimagesearch.com/2017/05/22/face-alignment-with-opencv-and-python/". 
 
